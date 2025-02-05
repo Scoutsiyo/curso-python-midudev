@@ -37,4 +37,10 @@ resultado = battle(lista_a, lista_b)  # -> "x"
 
 # Fuerza bruta: buscar la solución A SACO.
 # Algoritmos ocultos o cálculos o fórmulas
-# Programación dinámica: buscar una solución mas eficiente
+# Programación dinámica: buscar una solución mas eficient
+
+lista_a = [2, 4, 2]
+lista_b = [3, 3, 4]
+
+for i,j in range(len(lista_a)):
+    print(i,j)
